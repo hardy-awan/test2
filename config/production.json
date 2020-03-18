@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb://hardy-awan:rocketv1963@cluster0-shard-00-00-0pvol.mongodb.net:27017,cluster0-shard-00-01-0pvol.mongodb.net:27017,cluster0-shard-00-02-0pvol.mongodb.net:27017/social-network?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "jwtSecret": "ANAKKAMPUNGBEKASI",
+    "gitClientid": "617d5a6f61166eb88cc6",
+    "gitClientSecret": "9d8a58664b7c020be0e36a6c469bde2a875d3a04"
+}
